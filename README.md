@@ -1,7 +1,6 @@
 # Ivan Rei Castro
 
-Computer Science graduate specializing in Intelligent Systems.  
-Aspiring cloud engineer.
+Computer Science graduate specializing in Intelligent Systems. Aspiring cloud engineer.
 
 ---
 
