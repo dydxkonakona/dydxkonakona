@@ -40,7 +40,7 @@ Aspiring Cloud Engineer, AI enthusiast, and Flutter tinkerer 🚀
 Built and deployed a personal resume site using AWS services with HTTPS via CloudFront.
 
 **[☁️ AWS Hands-On Labs](https://github.com/dydxkonakona/aws-hands-on-learning)**  
-*AWS Educate Labs (EC2, RDS, IAM, VPC, CloudFormation)*  
+*AWS Educate Labs (EC2, S3, RDS, IAM, VPC, CloudFormation)*  
 A collection of hands-on labs and notes from my AWS learning journey.
 
 ---
