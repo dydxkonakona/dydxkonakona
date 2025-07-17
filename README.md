@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm Ivan Rei Castro
 
-I'm a Computer Science graduate with a passion for **cloud tech** and all things **automation**.  
-Currently diving deep into **AWS**, building projects, and sharing what I learn.  
-Aspiring Cloud Engineer, AI enthusiast, and Flutter tinkerer 🚀
+I'm a **Computer Science graduate** with a specialization in **Intelligent Systems**, and a **certified AWS Cloud Practitioner**. My journey combines academic experience in **AI (Computer Vision, NLP, Machine Learning)** and practical hands-on exposure to **core AWS services**.
+
+I enjoy working on cloud projects, automation, and app development. I take pride in my problem-solving skills, clear communication, and a passion for continuous learning. My goal is to contribute meaningfully to **cloud infrastructure, support, or operations teams**.
 
 ---
 
