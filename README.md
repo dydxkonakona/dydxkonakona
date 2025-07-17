@@ -8,8 +8,6 @@ I enjoy working on cloud projects, automation, and app development. I take pride
 
 ### 🛠️ Skills
 
-### 🛠️ Skills
-
 **☁️ Cloud & Infrastructure**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![EC2](https://img.shields.io/badge/EC2-orange?style=flat&logo=amazon-aws&logoColor=white)
