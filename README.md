@@ -45,7 +45,7 @@ I enjoy working on cloud projects, automation, and app development. I take pride
 
 ### 📌 Projects
 
-**[📄 Cloud Resume Project](https://github.com/dydxkonakona/cloud-resume-aws)**  
+**[📄 Cloud Resume Challenge](https://github.com/dydxkonakona/cloud-resume-aws)**  
 *Static Site Hosting (S3, CloudFront, HTML/CSS)*  
 Built and deployed a personal resume site using AWS services with HTTPS via CloudFront.
 
