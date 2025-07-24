@@ -45,13 +45,17 @@ I enjoy working on cloud projects, automation, and app development. I take pride
 
 ### 📌 Projects
 
-**[📄 Cloud Resume Challenge](https://github.com/dydxkonakona/cloud-resume-aws)**  
+**[Cloud Resume Challenge](https://github.com/dydxkonakona/cloud-resume-aws)**  
 *Static Site Hosting (S3, CloudFront, HTML/CSS)*  
 Built and deployed a personal resume site using AWS services with HTTPS via CloudFront.
 
-**[☁️ AWS Hands-On Learning](https://github.com/dydxkonakona/aws-hands-on-learning)**  
+**[AWS Hands-On Learning](https://github.com/dydxkonakona/aws-hands-on-learning)**  
 *AWS Hands-on Learning (Amazon EC2, S3, RDS, IAM, Lambda, VPC, Pricing Calculator)*  
 A collection of hands-on learning and notes from my AWS learning journey.
+
+**[EaTanong Heartwise](https://github.com/dydxkonakona/eatanong-heartwise-flutter)**
+*Mobile AI Health Tracking App (Flutter, Tensorflow, TFLite, Hive)*
+Flutter app for food, exercise, hydration, medication, and blood pressure tracking with AI food image classification.
 
 ---
 
